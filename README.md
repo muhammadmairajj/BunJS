@@ -1,6 +1,6 @@
 # bunjs
 
-##### This is simple learing code i have covered basic topics likes
+### This is simple learing code i have covered basic topics likes
 1. Bun.serve()
 2. Watch mode
 3. Hot Reload Mode
